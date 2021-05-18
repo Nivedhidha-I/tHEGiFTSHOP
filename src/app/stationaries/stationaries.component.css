@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+    border: 2px dashed palegoldenrod;
+    display: block;
+    padding: 10px;
+    margin: 2px;
+}
+
+.Sidebar {
+    height: 76%;
+    border: 8px dotted rgba(88, 242, 245, 0.836);
+    text-align: center;
+    display: inline;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+} 
+
+.Content {
+    height: 76%;
+    display: inline;
+    float: right;
+    padding-right: 0%;
+    padding-right: 0%;
+    max-width: 70%;
+}

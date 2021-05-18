@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    border: 2px dashed palegoldenrod;
+    display: block;
+    padding: 13px;
+    margin: 5px;
+    margin-top: 4px;
+}
+
+.Sidebar {
+    height: 76%;
+    border: 8px dotted rgba(88, 242, 245, 0.836);
+    text-align: center;
+    display: inline;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+} 
+
+.Content {
+    height: 76%;
+    display: inline;
+    float: right;
+    padding-right: 0%;
+    padding-right: 0%;
+    max-width: 70%;
+}

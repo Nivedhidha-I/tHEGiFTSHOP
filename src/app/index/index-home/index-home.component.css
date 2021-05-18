@@ -1,0 +1,10 @@
+.col-sm-12 {
+    max-height: 510px;
+}
+
+img {
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 96%;
+    height: 92%;
+}

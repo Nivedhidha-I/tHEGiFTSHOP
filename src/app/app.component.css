@@ -1,0 +1,43 @@
+.Header {
+    height: 100px;
+}
+
+.Footer {
+    margin-top: 15px;
+    height: 50px;
+    background-color: rgb(255, 203, 203);
+}
+
+pre {
+    text-align: center;
+    color: rgb(250, 227, 227);
+}
+
+#contactus {
+    margin-bottom: 0px;
+    font-size: larger;
+    padding-top: 5px;
+}
+
+#details {
+    padding-bottom: 7px;
+}
+
+#footer {
+    background-color: rgb(255, 112, 136);
+    margin-top: 10px;
+}
+
+#logo {
+    height: 80%;
+    width: 5%;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+
+#title {
+    width: 85%;
+    height: 75px;
+    margin-top: 1%;
+    margin-left: 3%;
+}

@@ -1,0 +1,73 @@
+#photo>img {
+    width: 300px;
+    height: 300px;
+}
+
+#photo {
+    background-color: rgb(255, 249, 249);
+    border: 7px solid rgb(253, 149, 175);
+    border-bottom: 50px solid rgb(253, 149, 175);
+    padding: 10px;
+    padding-bottom: 70px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+aside {
+    width: 550px;
+    text-align: left;
+    margin-right: 80px;
+    float: right;
+}
+
+aside>h2 {
+    color: rgb(252, 41, 94);
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+aside>h3 {
+    font-size: 17px;
+    color: rgba(255, 93, 169, 0.932);
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+#SPECIFICATIONS {
+    color: rgba(212, 38, 110, 0.932);
+    text-align: left;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+ul {
+    padding-left: 50px;
+    padding-right: 20px;
+    font-size: 15px;
+    color: rgb(158, 80, 100);
+    margin-bottom: 5px;
+}
+
+#price {
+    font-size: 25px;
+    margin-left: 112px;
+    color: rgb(211, 12, 61);
+    margin-top: 16px;
+}
+
+#specification {
+    border: 3px solid rgb(233, 8, 64);
+    display: inline-block;
+    padding: 40px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-left: 72px;
+}
+
+#type>a {
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(158, 80, 100);
+}
